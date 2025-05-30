@@ -10,7 +10,14 @@
           System.out.println( A/B);
            System.out.println( A%B);
             System.out.println(A*A);
+            // unary opertor 
+            int C = 14;
+            int h = ++C;
+            System.out.println(C);
+            System.out.println(h);
 
+       
+           
     }
 
 
